@@ -80,6 +80,6 @@
 ## Difference Between driver.close() and driver.quit()
 
     In Selenium Webdriver, driver.close() and driver.quit() are two methods for closing a browser window.
-![img_2.png](img_2.png)
+![img.png](img.png)
 
 
